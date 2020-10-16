@@ -1,0 +1,13 @@
+.button-wrapper {
+  padding: 10px;
+  text-align: center;
+}
+
+.button-wrapper div {
+  padding: 20px;
+}
+
+.login {
+  width: 100%;
+  padding: 10px;
+}
